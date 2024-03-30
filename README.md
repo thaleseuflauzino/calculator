@@ -1,1 +1,1 @@
-o projeto foi fazer uma calculadora das operações matemáticas simples para fins de estudo de html css e js.
+o projeto foi fazer uma calculadora das operações matemáticas simples para fins de estudo de html css e javascript.
